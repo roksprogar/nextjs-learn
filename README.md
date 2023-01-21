@@ -1,0 +1,1 @@
+# The "Learn" project from the official Next.js documentation.
